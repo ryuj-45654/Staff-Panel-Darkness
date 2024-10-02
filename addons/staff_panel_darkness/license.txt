@@ -1,0 +1,46 @@
+--------------------------------------------------------------------
+                    Licencia de Uso de Addon
+--------------------------------------------------------------------
+
+Este addon ha sido creado por Ryuj Darkness exclusivamente para su 
+uso en la comunidad Darkness. Cualquier intento de redistribuir, 
+modificar o utilizar este addon en otras comunidades o servidores 
+sin el permiso expreso del autor está estrictamente prohibido.
+
+--------------------------------------------------------------------
+                    Derechos de Autor
+--------------------------------------------------------------------
+
+Copyright (C) 2024 Ryuj Darkness. Todos los derechos reservados.
+
+Este addon y todo su contenido, incluidos pero no limitados a 
+códigos, gráficos, sonidos y cualquier material relacionado, son 
+propiedad exclusiva de Ryuj Darkness.
+
+--------------------------------------------------------------------
+                    Limitaciones de Uso
+--------------------------------------------------------------------
+
+- No se permite la redistribución de este addon en ninguna forma.
+- No se permite la modificación de este addon sin el consentimiento 
+  del autor.
+- No se permite el uso de este addon para fines comerciales.
+
+--------------------------------------------------------------------
+                    Agradecimientos
+--------------------------------------------------------------------
+
+Agradezco a todos los miembros de la comunidad Darkness por su apoyo 
+y contribuciones. Espero que este addon mejore su experiencia de 
+juego y brinde herramientas útiles para la moderación.
+
+--------------------------------------------------------------------
+                    Contacto
+--------------------------------------------------------------------
+
+Para cualquier consulta o solicitud relacionada con este addon, 
+puedes contactarme a través de:
+
+Discord: Ryuj-45654#9938
+
+--------------------------------------------------------------------
